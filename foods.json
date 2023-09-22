@@ -4,41 +4,47 @@
        "name": "Pizza",
        "proportion": "1 Slice",
        "calories": "215 kcal",
-       "carbohydrate": "21,13 g"
+       "carbohydrate": "21,13 g",
+       "urlImg": "https://raw.githubusercontent.com/RodrigoNorio/api-DIO/main/imagens/img_pizza.png"
     },
     {
        "id": 2,
        "name": "Hamburger",
        "proportion": "302g",
        "calories": "721 kcal",
-       "carbohydrate": "52,76 g"
+       "carbohydrate": "52,76 g",
+       "urlImg": "https://raw.githubusercontent.com/RodrigoNorio/api-DIO/main/imagens/img_hamburger.png"
     },
     {
        "id":3,
        "name": "Ice Cream",
        "proportion": "100g",
        "calories": "183.33 kcal",
-       "carbohydrate": "26.66 g"
+       "carbohydrate": "26.66 g",
+       "urlImg": "https://raw.githubusercontent.com/RodrigoNorio/api-DIO/main/imagens/img_ice_cream.png"
     },
     {
        "id":4,
        "name": "Banana",
        "proportion": "100g",
        "calories": "97.00 kcal",
-       "carbohydrate": "22.20 g"
+       "carbohydrate": "22.20 g",
+       "urlImg": "https://raw.githubusercontent.com/RodrigoNorio/api-DIO/main/imagens/img_banana.png"
     },
     {
        "id":5,
        "name": "Fried eggs",
        "proportion": "100g",
        "calories": "240.00 kcal",
-       "carbohydrate": "1.20 g"
+       "carbohydrate": "1.20 g",
+       "urlImg": "https://raw.githubusercontent.com/RodrigoNorio/api-DIO/main/imagens/img_fried_eggs.png"
     },
     {
        "id":6,
        "name": "Chocolate cake",
        "proportion": "100g",
        "calories": "511.00 kcal",
-       "carbohydrate": "56.74 g"
+       "carbohydrate": "56.74 g",
+       "urlImg": "https://raw.githubusercontent.com/RodrigoNorio/api-DIO/main/imagens/img_chocolate_cake.png"
     }
 ]
