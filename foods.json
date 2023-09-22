@@ -1,0 +1,44 @@
+[
+    {
+       "id": 1,
+       "name": "Pizza",
+       "proportion": "1 Slice",
+       "calories": "215 kcal",
+       "carbohydrate": "21,13 g"
+    },
+    {
+       "id": 2,
+       "name": "Hamburger",
+       "proportion": "302g",
+       "calories": "721 kcal",
+       "carbohydrate": "52,76 g"
+    },
+    {
+       "id":3,
+       "name": "Ice Cream",
+       "proportion": "100g",
+       "calories": "183.33 kcal",
+       "carbohydrate": "26.66 g"
+    },
+    {
+       "id":4,
+       "name": "Banana",
+       "proportion": "100g",
+       "calories": "97.00 kcal",
+       "carbohydrate": "22.20 g"
+    },
+    {
+       "id":5,
+       "name": "Fried eggs",
+       "proportion": "100g",
+       "calories": "240.00 kcal",
+       "carbohydrate": "1.20 g"
+    },
+    {
+       "id":6,
+       "name": "Chocolate cake",
+       "proportion": "100g",
+       "calories": "511.00 kcal",
+       "carbohydrate": "56.74 g"
+    }
+]
